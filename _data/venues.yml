@@ -4,3 +4,13 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"KBS":
+  url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  color: "#00369f"
+
+"Energy":
+  url: https://www.sciencedirect.com/journal/energy
+
+"NPL":
+  url: https://www.springer.com/journal/11063
