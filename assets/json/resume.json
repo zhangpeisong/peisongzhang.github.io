@@ -5,7 +5,7 @@
     "image": "",
     "email": "pencil007123@gmail.com",
     "phone": "(+86) 18359820017",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://github.com/zhangpeisong/peisongzhang.github.io",
     "summary": "A China-born data science researcher",
     "location": {
       "address": "2712 Broadway St",
@@ -40,13 +40,29 @@
     {
       "institution": "National University of Singapore, Singapore",
       "url": "https://nus.edu.sg/",
-      "area": "AI in healthcare and medicine",
-      "studyType": "Master",
+      "area": "Precision Health and Medicine",
+      "studyType": "Master's Degree",
       "startDate": "2023-01-15",
       "endDate": "2025-01-15",
       "score": "",
       "courses": [
         "AI and Machine Learning in Precision Medicine"
+      ]
+    },
+    {
+      "institution": "Jimei University, Xiamen, Fujian, China",
+      "url": "https://www.jmu.edu.cn/",
+      "area": "Applied Physics",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2019-09-01",
+      "endDate": "2023-07-01",
+      "score": "",
+      "courses": [
+        "Data Structure",
+        "Linear Algebra",
+        "Computer Network Basis",
+        "Operation System and Linux",
+        "Computational Physics"
       ]
     }
   ],
@@ -55,7 +71,7 @@
       "title": "Best paper award",
       "date": "2022-07-22",
       "awarder": "",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "The best session paper during the 35th IEA/AIE conference in Japan"
     }
   ],
   "certificates": [],
@@ -63,7 +79,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker"
     },
     {
