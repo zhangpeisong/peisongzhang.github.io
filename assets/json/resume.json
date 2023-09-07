@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+/* "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -35,6 +35,8 @@
       ]
     }
   ],
+*/
+
   "volunteer": [],
   "education": [
     {
